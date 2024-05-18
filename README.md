@@ -1,2 +1,3 @@
-# minesweeper
-console version of the game
+# Minesweeper
+
+Консольная версия игры без сложных алгоритмов. Создана для последующего использования в [БоннБоте](https://github.com/GEMATOGESH/bonnbot).
